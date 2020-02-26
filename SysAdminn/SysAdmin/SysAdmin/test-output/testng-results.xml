@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="148438" started-at="2019-11-26T04:52:41Z" finished-at="2019-11-26T04:55:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="148438" started-at="2019-11-26T04:52:41Z" finished-at="2019-11-26T04:55:09Z">
+      <class name="mobiotics.sys.testCases.ReportTest">
+        <test-method status="PASS" signature="Reports()[pri:0, instance:mobiotics.sys.testCases.ReportTest@7dc222ae]" name="Reports" duration-ms="93752" started-at="2019-11-26T04:53:35Z" finished-at="2019-11-26T04:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports -->
+      </class> <!-- mobiotics.sys.testCases.ReportTest -->
+      <class name="mobiotics.sys.testCases.NotifyTest">
+        <test-method status="PASS" signature="initApplication()[pri:0, instance:mobiotics.sys.testCases.NotifyTest@2f8f5f62]" name="initApplication" is-config="true" duration-ms="31486" started-at="2019-11-26T04:52:09Z" finished-at="2019-11-26T04:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="Notify()[pri:0, instance:mobiotics.sys.testCases.NotifyTest@2f8f5f62]" name="Notify" duration-ms="20283" started-at="2019-11-26T04:52:42Z" finished-at="2019-11-26T04:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Notify -->
+      </class> <!-- mobiotics.sys.testCases.NotifyTest -->
+      <class name="mobiotics.sys.testCases.ProviderTest">
+        <test-method status="PASS" signature="provider()[pri:0, instance:mobiotics.sys.testCases.ProviderTest@1068e947]" name="provider" duration-ms="33210" started-at="2019-11-26T04:53:02Z" finished-at="2019-11-26T04:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- provider -->
+      </class> <!-- mobiotics.sys.testCases.ProviderTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
